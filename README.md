@@ -1,1 +1,2 @@
 # Practica-espectro-MATLAB
+##Recortatorio:##
